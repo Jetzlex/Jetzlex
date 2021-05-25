@@ -4,7 +4,7 @@
 -------------------------------------
 - Merhaba, ben Emirhan. İzmir/Türki'ye yaşıyorum. Yaklaşık 5 yıldır Bilgisayar ve Yazılım ile iç içeyim, kendimi durmadan geliştiriyor yeni projeler üretiyorum.
 -------------------------------------
-[PHP] [Node.js] [Next.js] [Javascript] [Express] [HTML] [CSS] [Bootstrap]
+[PHP] [Node.js] [React] [Nuxt.js] [Vue.js] [Electron.js] [Next.js] [Javascript] [Express] [HTML] [CSS] [Bootstrap]
 
 <!---
 Jetzlex/Jetzlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
